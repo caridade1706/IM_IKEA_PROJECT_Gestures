@@ -1,0 +1,43 @@
+<!--This XML file contains the gestures of the database.-->
+<Gestures>
+  <Gesture>
+    <ID>0</ID>
+    <NAME>add_cart</NAME>
+    <SEMANTIC>addcart</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>1</ID>
+    <NAME>add_favorites</NAME>
+    <SEMANTIC>addfavorites</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>2</ID>
+    <NAME>go_back</NAME>
+    <SEMANTIC>goback</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>3</ID>
+    <NAME>main_page</NAME>
+    <SEMANTIC>mainpage</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>4</ID>
+    <NAME>open_website</NAME>
+    <SEMANTIC>openwebsite</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>5</ID>
+    <NAME>scroll_down</NAME>
+    <SEMANTIC>scrolldown</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>6</ID>
+    <NAME>scroll_up</NAME>
+    <SEMANTIC>scrollup</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>7</ID>
+    <NAME>search</NAME>
+    <SEMANTIC>search</SEMANTIC>
+  </Gesture>
+</Gestures>
